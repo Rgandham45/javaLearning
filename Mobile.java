@@ -27,7 +27,7 @@ public class Mobile{
         obj.show();
         obj2.show();
         Mobile_ref.show1(obj);
-
+//print 
 
     }
 }
